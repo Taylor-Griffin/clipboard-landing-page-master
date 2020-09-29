@@ -144,7 +144,7 @@ ion-icon{
 
 .footer{
   background-color:#f5f6f8;
-  
+
 }
 
 .footer p{
@@ -157,7 +157,7 @@ ion-icon{
 
   /* ---------Desktop Layout------- */
 
-  @media only screen and (min-width:400px){
+  @media only screen and (min-width:300px){
     body{
       background-image: url(images/bg-header-desktop.png);
     }

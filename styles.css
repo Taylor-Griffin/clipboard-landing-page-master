@@ -224,20 +224,16 @@ li{
 
 }
 
-.icon2{
-  display:inline;
-  margin-right: 2rem;
-  text-align: center;
 
-}
 
 .icon-div{
-
-  width:78%;
+  display: flex;
+  width:90%;
   margin:0 auto;
+  align-items:baseline;
 }
 
-.vector{
+#vector{
   margin-right: 0;
 }
 

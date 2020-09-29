@@ -102,12 +102,12 @@ li{
 }
 
 .ios-btn{
-  width:80%;
+  width:85%;
   font-size: 1.6rem;
   display: block;
   background-color:hsl(171, 66%, 44%);
   color:white;
-  padding:3rem 10rem;
+  padding:1rem 10rem;
   border-radius:100px;
   margin:3rem auto;
   border:none;
@@ -115,12 +115,12 @@ li{
 }
 
 .mac-btn{
-  width:80%;
+  width:85%;
   font-size: 1.6rem;
   display: block;
   background-color:hsl(233, 100%, 69%);
   color:white;
-  padding:3rem 10rem;
+  padding:1rem 10rem;
   border-radius:100px;
   margin:3rem auto 12rem auto;
   border:none;
